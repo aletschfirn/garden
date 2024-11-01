@@ -8,6 +8,8 @@ And here I am with digital garden of knowledge and thoughts, based on Quartz v4 
 
 What to read:
 
-[[r4ag-xiaomi-router | My router (Mi Router 4A Gigabit v2)]]
+[[r4ag-xiaomi-router | My router (Mi Router 4A Gigabit v2)]], or [[tp-link-c20 | My modem-router TP-Link Archer C20, which I use to connect to ISP over PPPoE]]
 
 [[split-tunneling | Split Tunneling on local network]]
+
+[[openwrt | OpenWRT]]

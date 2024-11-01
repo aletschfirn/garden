@@ -15,7 +15,7 @@ Some tech specs:
 
 This thing costed me around 2k RUB or around 19 EUR (with enough money I could, in theory, buy Keenetic Start, which I wanted, but was afraid of due to lack of Entware)
 
-**Does support latest OpenWRT version** (I use 23.05.3 due to being lazy to compile amnezia-wg packages myself), on which it works really good
+**Does support latest [[openwrt|OpenWRT]] version** (I use 23.05.3 due to being lazy to compile amnezia-wg packages myself), on which it works really good
 ![[Pasted image 20241101191543.png]]
 
 As for me, 16mb flash isn't quite fine, but I can use it for AmneziaWG [[split-tunneling]] (or domain routing, as you prefer to call it), which is alr nice, altho I can't use sing-box to connect to v2ray VLESS xTLS Reality server :(
