@@ -522,13 +522,9 @@ export async function handleSync(argv) {
       })
     }
 
-    const currentTimestamp = new Date().toLocaleString("en-US", {
-      dateStyle: "medium",
-      timeStyle: "short",
-    })
-    const commitMessage = argv.message ?? `Quartz sync: ${currentTimestamp}`
+    const commitMessage = argv.message ?? `Sync quartz files.`
     spawnSync("git", ["add", "."], { stdio: "inherit" })
-    spawnSync("git", ["commit", "-m", commitMessage], { stdio: "inherit" })
+    spawnSync("git", ["commit", "-S", "-m", commitMessage], { stdio: "inherit" })
 
     if (contentStat.isSymbolicLink()) {
       // put symlink back
