@@ -7,5 +7,7 @@ As days pass, I think on how can I share knowledge more easily and efficently wi
 And here I am with digital garden of knowledge and thoughts, based on Quartz v4 with some (maybe) modifications (which are not implemented as of now, but I'll try to make them in future).
 
 What to read:
+
 [[r4ag-xiaomi-router | My router (Mi Router 4A Gigabit v2)]]
+
 [[split-tunneling | Split Tunneling on local network]]
