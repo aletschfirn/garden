@@ -8,3 +8,4 @@ And here I am with digital garden of knowledge and thoughts, based on Quartz v4 
 
 What to read:
 [[r4ag-xiaomi-router | My router (Mi Router 4A Gigabit v2)]]
+[[split-tunneling | Split Tunneling on local network]]
