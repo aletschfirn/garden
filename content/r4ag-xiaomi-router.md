@@ -25,6 +25,7 @@ List of what works:
 - zapret (removed later, will make a post about it)
 - AmneziaWG
 - Merging 2.4ghz and 5ghz WiFi's (with some problems, probably related to some misconfiguration)
+
 List of what doesn't work:
 - Sing-box (even 8mb is not enough for it)
 - Some nice adblock (that blocks youtube ads...)
