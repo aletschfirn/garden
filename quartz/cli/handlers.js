@@ -522,7 +522,7 @@ export async function handleSync(argv) {
       })
     }
 
-    const commitMessage = argv.message ?? `Sync quartz files.`
+    const commitMessage = argv.message ?? `Update pages.`
     spawnSync("git", ["add", "."], { stdio: "inherit" })
     spawnSync("git", ["commit", "-S", "-m", commitMessage], { stdio: "inherit" })
 
