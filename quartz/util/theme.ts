@@ -42,14 +42,14 @@ export function joinStyles(theme: Theme, ...stylesheet: string[]) {
 ${stylesheet.join("\n\n")}
 
 :root {
-  --light: ${theme.colors.lightMode.light};
-  --lightgray: ${theme.colors.lightMode.lightgray};
-  --gray: ${theme.colors.lightMode.gray};
-  --darkgray: ${theme.colors.lightMode.darkgray};
-  --dark: ${theme.colors.lightMode.dark};
-  --secondary: ${theme.colors.lightMode.secondary};
-  --tertiary: ${theme.colors.lightMode.tertiary};
-  --highlight: ${theme.colors.lightMode.highlight};
+  --light: ${theme.colors.lightMode.background};
+  --lightgray: ${theme.colors.lightMode.borders};
+  --gray: ${theme.colors.lightMode.heavyborders};
+  --darkgray: ${theme.colors.lightMode.bodytext};
+  --dark: ${theme.colors.lightMode.headertext};
+  --secondary: ${theme.colors.lightMode.linkcolor};
+  --tertiary: ${theme.colors.lightMode.hoverstate};
+  --highlight: ${theme.colors.lightMode.highlightedtext};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
