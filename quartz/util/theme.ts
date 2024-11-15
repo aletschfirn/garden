@@ -1,12 +1,12 @@
 export interface ColorScheme {
-  light: string
-  lightgray: string
-  gray: string
-  darkgray: string
-  dark: string
-  secondary: string
-  tertiary: string
-  highlight: string
+  background: string
+  borders: string
+  heavyborders: string
+  bodytext: string
+  headertext: string
+  linkcolor: string
+  hoverstate: string
+  highlightedtext: string
   textHighlight: string
 }
 
