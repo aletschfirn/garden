@@ -12,6 +12,7 @@ export function escapePath(fp) {
     .trim()
 }
 
+
 export function exitIfCancel(val) {
   if (isCancel(val)) {
     outro(chalk.red("Exiting"))
