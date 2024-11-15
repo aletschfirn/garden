@@ -58,14 +58,14 @@ ${stylesheet.join("\n\n")}
 }
 
 :root[saved-theme="dark"] {
-  --light: ${theme.colors.darkMode.light};
-  --lightgray: ${theme.colors.darkMode.lightgray};
-  --gray: ${theme.colors.darkMode.gray};
-  --darkgray: ${theme.colors.darkMode.darkgray};
-  --dark: ${theme.colors.darkMode.dark};
-  --secondary: ${theme.colors.darkMode.secondary};
-  --tertiary: ${theme.colors.darkMode.tertiary};
-  --highlight: ${theme.colors.darkMode.highlight};
+  --light: ${theme.colors.darkMode.background};
+  --lightgray: ${theme.colors.darkMode.borders};
+  --gray: ${theme.colors.darkMode.heavyborders};
+  --darkgray: ${theme.colors.darkMode.bodytext};
+  --dark: ${theme.colors.darkMode.headertext};
+  --secondary: ${theme.colors.darkMode.linkcolor};
+  --tertiary: ${theme.colors.darkMode.hoverstate};
+  --highlight: ${theme.colors.darkMode.highlightedtext};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
 }
 `
