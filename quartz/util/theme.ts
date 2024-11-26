@@ -51,7 +51,6 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.hoverstate};
   --highlight: ${theme.colors.lightMode.highlightedtext};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
-
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
