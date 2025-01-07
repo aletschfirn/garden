@@ -11,7 +11,7 @@ Some tech specs:
 - 16mb Flash
 - MT7621 (880Mhz)
 - 2 LAN ports
-- 12V charging (can be used with powerbank(?), altho can't test)
+- 12V charging (can be used with powerbank, not sure about stability tho)
 
 This thing costed me around 2k RUB or around 19 EUR (with enough money I could, in theory, buy Keenetic Start, which I wanted, but was afraid of due to lack of Entware)
 
@@ -27,6 +27,4 @@ List of what works:
 - Merging 2.4ghz and 5ghz WiFi's (with some problems, probably related to some misconfiguration)
 
 List of what doesn't work:
-- Sing-box (even 8mb is not enough for it)
-- Some nice adblock (that blocks youtube ads...)
-- Anything that requires over 7.5mb of memory (you can, in theory, use RAM as a storage, but I don't recommend that at all...)
+- Anything that requires over 14mb of memory (over 7.5mb requires usage of image builder)
