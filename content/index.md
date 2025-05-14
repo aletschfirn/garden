@@ -13,3 +13,5 @@ What to read:
 [[split-tunneling | Split Tunneling on local network]]
 
 [[openwrt | OpenWRT]]
+
+[[kn1714 | Keenetic Extra (KN-1714)]]
