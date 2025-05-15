@@ -23,7 +23,7 @@ const config: QuartzConfig = {
         code: "JetBrains Mono",
       },
       colors: {
-        lightMode: {
+        darkMode: {
           background: "#282828",
           borders: "#504945",
           heavyborders: "#3c3836",
@@ -34,16 +34,16 @@ const config: QuartzConfig = {
           highlightedtext: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fbf1c788",
         },
-        darkMode: {
-          background: "#2e3440",
-          borders: "#3b4252",
+        lightMode: {
+          background: "#fbf1c7",
+          borders: "#928374",
           heavyborders: "#4c566a",
-          bodytext: "#e5e9f0",
-          headertext: "#eceff4",
-          linkcolor: "#d8dee9",
-          hoverstate: "#e5e9f0",
+          bodytext: "#3c3836",
+          headertext: "#282828",
+          linkcolor: "#3c3836",
+          hoverstate: "#282828",
           highlightedtext: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          textHighlight: "#504945",
         },
       },
     },
