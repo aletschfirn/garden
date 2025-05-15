@@ -42,7 +42,7 @@ const config: QuartzConfig = {
           headertext: "#282828",
           linkcolor: "#3c3836",
           hoverstate: "#282828",
-          highlightedtext: "rgba(143, 159, 169, 0.15)",
+          highlightedtext: "#fbf1c7",
           textHighlight: "#504945",
         },
       },
