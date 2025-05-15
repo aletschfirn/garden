@@ -24,15 +24,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          background: "#faf8f8",
-          borders: "#e5e5e5",
-          heavyborders: "#b8b8b8",
-          bodytext: "#4e4e4e",
-          headertext: "#2b2b2b",
-          linkcolor: "#284b63",
-          hoverstate: "#84a59d",
+          background: "#282828",
+          borders: "#504945",
+          heavyborders: "#3c3836",
+          bodytext: "#ebdbb2",
+          headertext: "#fbf1c7",
+          linkcolor: "#665c54",
+          hoverstate: "#7c6f64",
           highlightedtext: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#fbf1c788",
         },
         darkMode: {
           background: "#2e3440",
