@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       colors: {
         darkMode: {
           background: "#282828",
-          borders: "#504945",
+          borders: "#7c6f64",
           heavyborders: "#3c3836",
           bodytext: "#ebdbb2",
           headertext: "#fbf1c7",
