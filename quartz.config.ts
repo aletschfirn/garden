@@ -32,7 +32,7 @@ const config: QuartzConfig = {
           linkcolor: "#665c54",
           hoverstate: "#7c6f64",
           highlightedtext: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fbf1c788",
+          textHighlight: "#fbf1c7",
         },
         lightMode: {
           background: "#fbf1c7",
