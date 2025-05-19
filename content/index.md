@@ -15,3 +15,5 @@ What to read:
 [[openwrt | OpenWRT]]
 
 [[kn1714 | Keenetic Extra (KN-1714)]]
+
+[[keenos | KeeneticOS]]
