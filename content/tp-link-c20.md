@@ -2,7 +2,7 @@
 title: TP-Link Archer C20 v4
 ---
 
-Archer C20 is a basic router w/o USB and with low storage... But it support OpenWRT!!! (needs to be installed with TFTP. Just set TFTP server IP to 192.168.0.66 and leave tp_recovery.bin in server's root folder, then hold reset and restart your router. Voila!)
+Archer C20 is a basic router w/o USB and with low storage... With OpenWRT support (needs to be installed with TFTP. Just set TFTP server IP to 192.168.0.66 and leave tp_recovery.bin in server's root folder, then hold reset and restart your router. Voila!)
 
 Tech specs:
 
