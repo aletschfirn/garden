@@ -17,21 +17,21 @@ yargs(hideBin(process.argv))
   .usage("$0 <cmd> [args]")
   .command(
     "create", 
-    "Initialize Quartz", 
+    "Initialize Quartz.", 
     CreateArgv, 
     async (argv) => {
       await handleCreate(argv)
   })
   .command(
     "update", 
-    "Get the latest Quartz updates", 
+    "Get the latest Quartz updates.", 
     CommonArgv, 
     async (argv) => {
       await handleUpdate(argv)
   })
   .command(
     "restore",
-    "Try to restore your content folder from the cache",
+    "Try to restore your content folder from the cache.",
     CommonArgv,
     async (argv) => {
       await handleRestore(argv)
@@ -46,7 +46,7 @@ yargs(hideBin(process.argv))
   })
   .command(
     "build", 
-    "Build Quartz into a bundle of static HTML files", 
+    "Build Quartz into a bundle of static HTML files.", 
     BuildArgv, 
     async (argv) => {
       await handleBuild(argv)
