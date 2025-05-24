@@ -24,11 +24,11 @@ const config: QuartzConfig = {
       },
       colors: {
         darkMode: {
-          background: "#282828",
+          background: "#050505",
           borders: "#7c6f64",
           heavyborders: "#3c3836",
-          bodytext: "#ebdbb2",
-          headertext: "#fbf1c7",
+          bodytext: "#343434",
+          headertext: "#f0f0f0",
           linkcolor: "#7c6f64",
           hoverstate: "#fbf1c7",
           highlightedtext: "rgba(143, 159, 169, 0.15)",
